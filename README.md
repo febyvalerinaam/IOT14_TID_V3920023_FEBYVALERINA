@@ -1,1 +1,1 @@
-Program ini yaitu digunakan untuk mengukur jarak ultrasonic dalam cm. Jika pada pot-hg kita naikkan maka jarak yang ultasonik yang muncul dalam monitor virtual terminal akan naik,, begitu pula sebaliknya jika diturunkan maka hasil jarak yang muncul juga akan turun
+Program ini yaitu digunakan untuk mengukur jarak ultrasonic dalam cm. Jika pada pot-hg kita naikkan maka jarak yang ultasonik yang muncul dalam monitor virtual terminal akan naik, begitu pula sebaliknya jika diturunkan maka hasil jarak yang muncul juga akan turun
